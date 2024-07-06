@@ -1,0 +1,13 @@
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+*.class
+
+# Other common files
+*.log
+*.tmp
+*.swp
+*.DS_Store
